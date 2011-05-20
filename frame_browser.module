@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Frame Browser feature.
+ */
+
+include_once('frame_browser.features.inc');
